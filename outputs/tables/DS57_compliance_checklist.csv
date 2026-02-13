@@ -1,0 +1,5 @@
+dataset,grouping,stats_included,rows
+Dataset 1 Regional_Economic_Magnitude,Price_Type,"Q1,Q3,IQR,P10,P90,CV,QCD",2
+Dataset 1 Regional_Economic_Magnitude,"Region, Price_Type","Q1,Q3,IQR,P10,P90,CV,QCD",36
+Dataset 2 Sector_Economic_Structure,"Main_Sector, Price_Type","Q1,Q3,IQR,P10,P90,CV,QCD",6
+Dataset 3 Region_Sector_Structure,"Region, Main_Sector, Price_Type","Q1,Q3,IQR,P10,P90,CV,QCD",144
